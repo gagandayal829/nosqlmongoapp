@@ -11,7 +11,7 @@ Credits:  https://www.callicoder.com
 Clone this repo
 
 ```
-git clone https://github.com/tarun27in/FS1030_NoSQL
+git clone https://github.com/gagandayal829/nosqlmongoapp.git
 ```
 
 Initializes the app
