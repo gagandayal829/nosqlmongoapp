@@ -1,7 +1,7 @@
 # FS1030
 NoSQL + REST API Example
 
-Good example of using MongoDB + NodeJS integration
+Exercise Added two additional fields namely : note_category & note_list_name
 
 Credits:  https://www.callicoder.com
 
